@@ -30,21 +30,22 @@ school_reforms = no_schools
 conscription = four_year_draft
 debt_law = peonage
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
-border_policy = open_borders
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
+border_policy = closed_borders
 
 set_country_flag = mahayana_country
 set_country_flag = exempt_from_vassal_contribution
 
 ruling_party = JAP_reactionary
 upper_house = {
-	fascist = 0
-	liberal = 17
-	conservative = 35
-	reactionary = 48
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+    fascist = 0
+    liberal = 17
+    conservative = 35
+    reactionary = 48
+    anarcho_liberal = 0
+    socialist = 0
+    communist = 0
 }
 
 
@@ -64,9 +65,9 @@ ammunition_production = yes
 # Inventions
 #bottling_process = yes
 modern_winemaking = yes
-big_sail_ships = yes
-sail_ships_transport = yes
-big_sail_support = yes
+#big_sail_ships = yes
+#sail_ships_transport = yes
+#big_sail_support = yes
 
 # Starting Consciousness
 consciousness = 0
@@ -74,7 +75,7 @@ nonstate_consciousness = 0
 
 oob = "JAP_oob.txt"
 1861.1.1 = {
-	oob = "/1861/JAP_oob.txt"
+    oob = "/1861/JAP_oob.txt"
 }
 1861.1.1 = {
 

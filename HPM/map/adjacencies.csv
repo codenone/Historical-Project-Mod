@@ -43,7 +43,7 @@ From;To;Type;Through;Data;Comment
 324;348;sea;2706;0;Aland Strait #Uppsala to Aland #these were in V1
 334;372;sea;2711;0;Öresund
 335;374;sea;2710;0;Bornholmsfärjan
-348;345;sea;2706;0;Aland Strait #Aland to Turku 
+348;345;sea;2706;0;Aland Strait #Aland to Turku
 353;349;sea;2709;0;Öselsund
 353;358;sea;2709;0;Strait of Riga
 372;373;sea;2711;0;Fyn-Sjaelland
@@ -71,6 +71,7 @@ From;To;Type;Through;Data;Comment
 254;304;sea;2737;0;Irish Strait
 267;1724;sea;2735;0;Inverness - Orkney Strait
 780;782;land;2762;0;Mostar Bay
+1981;745;land;2751;0;Elba to Livorno
 #301;400;sea;2724;0;UK - France Strait
 
 #
